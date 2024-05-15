@@ -1,2 +1,4 @@
 nomad-measurements
 nomad-material-processing
+
+git+https://github.com/Mimomattis/nomad-sintering.git
